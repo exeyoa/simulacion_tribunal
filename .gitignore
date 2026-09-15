@@ -1,0 +1,8 @@
+# Archivos generados por macOS
+.DS_Store
+
+# Archivos generados por Windows
+Thumbs.db
+
+# Credenciales reales del hosting/local (se pegan manualmente antes de subir)
+config/entorno.php
